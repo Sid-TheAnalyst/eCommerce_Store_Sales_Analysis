@@ -27,4 +27,4 @@ Vrinda store is selling their products online through diffrent channels like Ama
 
 Vrinda Store should target women customers of age group (31-50 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
 
-! [Dashboard Screenshot](https://github.com/Sid-TheAnalyst/eCommerce_Store_Sales_Analysis/blob/main/Vrinda%20Sales%20Analysis/Dashboard%20Screenshot.png)
+!(https://github.com/Sid-TheAnalyst/eCommerce_Store_Sales_Analysis/blob/main/Vrinda%20Sales%20Analysis/Dashboard%20Screenshot.png)
